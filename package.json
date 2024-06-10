@@ -1,0 +1,20 @@
+{
+  "name": "web3-encryption-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier --write './**/*.{js,jsx,tsx,css,json}'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2",
+    "express": "^4.19.2",
+    "libsodium-wrappers": "^0.7.13",
+    "prettier": "^3.2.5"
+  }
+}
